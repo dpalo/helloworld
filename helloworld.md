@@ -14,3 +14,12 @@ a*b
 ## [1] 24
 ```
 
+Plot random
+
+```r
+plot(1:10, 2:11)
+```
+
+![](helloworld_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+
+
