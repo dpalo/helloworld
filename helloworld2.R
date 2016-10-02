@@ -1,0 +1,17 @@
+#'---
+#'title: "Prueba de R Markdown"
+#'author: "David Palomeque Mangut"
+#'date: "1 de octubre de 2016"
+#'output: 
+#'  html_document: 
+#'    keep_md: yes
+#'---
+
+#'Operaciones matemáticas de prueba.
+#+ r
+a = 3 + 3
+b = 4
+a*b
+
+
+
